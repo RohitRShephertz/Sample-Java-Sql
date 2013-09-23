@@ -27,11 +27,11 @@
 		</plugins>
 	</build>
 	<dependencies>
-		<dependency>
+	<!--	<dependency>
 			<groupId>org.apache.tomcat</groupId>
 			<artifactId>servlet-api</artifactId>
 			<version>6.0.16</version>
-		</dependency>
+		</dependency> -->
 		<!-- Mail Dependency -->
 		<dependency>
 			<groupId>mysql</groupId>
