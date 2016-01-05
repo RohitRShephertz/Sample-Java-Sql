@@ -1,4 +1,4 @@
-Getting Started with Java-MySql Sample Application:
+Getting Started with Java-MySql Sample Applications:
 ----------------------------------------------------
 
 This application is basically a simple User Input Form that takes input from user and saves it in database.
